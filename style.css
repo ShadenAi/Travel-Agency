@@ -27,7 +27,7 @@ p{
 
 
 .start{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.274),transparent),url('start.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.274),transparent),url('img/start.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
@@ -108,7 +108,7 @@ button:hover{
 /* Breview Section */
 #Breview{
     min-height: 100vh;
-    background-image: url('middle.jpg');
+    background-image: url('img/middle.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -154,7 +154,7 @@ button:hover{
     position: relative;
 }
 .card1{
-    background: linear-gradient(rgba(0, 0, 0, 0.274),transparent),url('aerial-photography-of-zig-zag-road-1612462.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.274),transparent),url('img/aerial-photography-of-zig-zag-road-1612462.jpg');
     background-size: cover;
 }
 
@@ -171,11 +171,11 @@ button:hover{
     width: 100%;
 }
 .card2{
-    background: url('view-of-tourist-resort-338504.jpg');
+    background: url('img/view-of-tourist-resort-338504.jpg');
     background-size: cover;
 }
 .card3{
-    background: url('airplane-wing-with-rainbow-1655985.jpg');
+    background: url('img/airplane-wing-with-rainbow-1655985.jpg');
     background-size: cover;
 }
 .card p{
@@ -192,7 +192,7 @@ button:hover{
 /* Contact section */
 #Contact{
     min-height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.274),transparent),url('end.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.274),transparent),url('img/end.jpg');
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
